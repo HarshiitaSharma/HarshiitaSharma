@@ -14,10 +14,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN">
+  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/harshita-sharma-b159a5282/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:harshitapandit1417@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/HarshiitaSharma">
