@@ -91,7 +91,11 @@ Full implementation and results will be made available after publication.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshiitaSharma&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshiitaSharma&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiitaSharma&layout=compact" />
+</p>
+
 
 
 ---
