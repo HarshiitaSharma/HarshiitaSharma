@@ -98,6 +98,11 @@ Full implementation and results will be made available after publication.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiitaSharma&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarshiitaSharma)
+
+![](https://streak-stats.demolab.com?user=HarshiitaSharma)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshiitaSharma&layout=compact)
 
 ---
 
