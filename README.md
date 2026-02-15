@@ -91,13 +91,6 @@ Full implementation and results will be made available after publication.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HarshiitaSharma&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=HarshiitaSharma&theme=default&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiitaSharma&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarshiitaSharma)
 
 ![](https://streak-stats.demolab.com?user=HarshiitaSharma)
