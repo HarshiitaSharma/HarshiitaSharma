@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hashita ✨</h1>
+<h1 align="center">Hi, I'm Harshita Sharma ✨</h1>
 <h3 align="center">Computer Science Engineering Student | Web & JavaScript Developer</h3>
 
 ---
